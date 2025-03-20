@@ -7,7 +7,6 @@
 - **VMF, VTF, and BSP Support** – Read, edit, and export Source Engine map files.
 - **Custom Rendering Engine** – Uses OpenGL for real-time map visualization.
 - **Extensible and Open-Source** – Allows community contributions and modifications.
-- **Feature Enhancements** – Introduces new tools and improvements beyond Hammer.
 
 ## 📜 Roadmap
 ### Phase 1: Core Development
