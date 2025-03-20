@@ -38,7 +38,7 @@ Chisel is open-source, and contributions are welcome! If you’d like to help, y
 - Join discussions and share ideas
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ## 📢 Contact
 For questions, discussions, or support, feel free to open an issue on GitHub or join the community discussions.
