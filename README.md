@@ -43,5 +43,5 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 For questions, discussions, or support, feel free to open an issue on GitHub or join the community discussions.
 
 ---
-**Chisel** aims to bridge the gap for Source Engine mapping on Linux and macOS, making game modding more accessible to all developers. Let's build something great together!
+**Chisel** aims to bridge the gap for Source Engine mapping on Linux and macOS, making game modding more accessible to all developers.
 
